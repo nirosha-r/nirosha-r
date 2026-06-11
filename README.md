@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nirosha Rathnayake 👋
 
-<!--
-**nirosha-r/nirosha-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Systems Engineer | Linux Server Administration | VMware | Monitoring & Security Tools
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Virtualization & Cloud**: VMware ESXi, vSphere, VirtualBox
+- **Monitoring & SIEM**: ELK Stack (Elasticsearch, Logstash, Kibana), Wazuh, Splunk, Nagios
+- **Server Administration**: Linux (AlmaLinux, Ubuntu, CentOS), Nginx, PHP-FPM, SSL/TLS
+- **Web Development**: Laravel, PHP, HTML/CSS, JavaScript
+- **DevOps & Tools**: GitHub Actions, CI/CD, Docker, Bash, Python
+- **Cybersecurity**: ISO 27001, NIST, GDPR, SOC 2, MITRE ATT&CK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **Citizen Incident Reporting System**  
+  Laravel-based app with OTP verification, GPS capture, and photo uploads.  
+  *Tech stack*: Laravel, MySQL, Bootstrap, Google Maps API
+
+- **Moodle LMS Deployment**  
+  Automated installation and configuration of Moodle 5 with Nginx + PHP-FPM.  
+  *Outcome*: Reduced deployment time by 40%, improved security compliance.
+
+- **VMware FreeBSD Migration**  
+  Converted physical FreeBSD server into VMware VM with optimized virtual disk configuration.  
+  *Focus*: Virtualization, performance tuning, disaster recovery.
+
+- **Wazuh + ELK Integration**  
+  Deployed Wazuh SIEM with ELK Stack for centralized monitoring and threat detection.  
+  *Outcome*: Real-time alerts, compliance reporting, vulnerability assessment.
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirosha-r&show_icons=true&theme=radical)
+
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/nsrathnayake/)

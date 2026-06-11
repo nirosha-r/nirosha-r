@@ -27,8 +27,5 @@
   Deployed Wazuh SIEM with ELK Stack for centralized monitoring and threat detection.  
   *Outcome*: Real-time alerts, compliance reporting, vulnerability assessment.
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirosha-r&show_icons=true&theme=radical)
-
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/nsrathnayake/)
